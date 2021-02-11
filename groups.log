@@ -1,0 +1,755 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.17)  7 FEB 2021 22:28
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**groups.tex
+(./groups.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen143
+\ar@mcellbox=\box45
+\extrarowheight=\dimen144
+\NC@list=\toks16
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box46
+)
+\everycr=\toks17
+\minrowclearance=\skip51
+)
+\rownum=\count178
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+No auxiliary output files.
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count179
+\l__pdf_internal_box=\box47
+)
+No file groups.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
+* v-part:(T,H,B)=(36.135pt, 722.7pt, 36.135pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=542.02501pt
+* \textheight=722.7pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-73.135pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count180
+\scratchdimen=\dimen145
+\scratchbox=\box48
+\nofMPsegments=\count181
+\nofMParguments=\count182
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count183
+\MPscratchDim=\dimen146
+\MPnumerator=\count184
+\makeMPintoPDFobject=\count185
+\everyMPtoPDFconversion=\toks19
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 13.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+[2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16]
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 341--341
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 343--343
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+[17]
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 357--357
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 361--361
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+[18]
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 377--377
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 381--381
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+[19] [20] [21]
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 437--437
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 441--441
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+[22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35]
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 723--723
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 725--725
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+[36]
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 743--743
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 745--745
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+[37]
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 757--757
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 761--761
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+[38]
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 783--783
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 785--785
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+[39]
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 797--797
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 801--801
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+[40]
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 821--821
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+
+Overfull \hbox (7.6726pt too wide) in paragraph at lines 823--823
+\OT1/cmr/m/n/10 OHARAGYM 
+ []
+
+[41] [42] [43] [44] [45]
+Overfull \hbox (6.35321pt too wide) in paragraph at lines 917--917
+\OT1/cmr/m/n/10 LAB1SMALL 
+ []
+
+
+Overfull \hbox (6.35321pt too wide) in paragraph at lines 917--917
+\OT1/cmr/m/n/10 LAB1SMALL 
+ []
+
+
+Overfull \hbox (6.35321pt too wide) in paragraph at lines 919--919
+\OT1/cmr/m/n/10 LAB1SMALL 
+ []
+
+
+Overfull \hbox (6.35321pt too wide) in paragraph at lines 919--919
+\OT1/cmr/m/n/10 LAB1SMALL 
+ []
+
+[46]
+Overfull \hbox (6.35321pt too wide) in paragraph at lines 941--941
+\OT1/cmr/m/n/10 LAB1SMALL 
+ []
+
+
+Overfull \hbox (6.35321pt too wide) in paragraph at lines 941--941
+\OT1/cmr/m/n/10 LAB1SMALL 
+ []
+
+
+Overfull \hbox (6.35321pt too wide) in paragraph at lines 945--945
+\OT1/cmr/m/n/10 LAB1SMALL 
+ []
+
+
+Overfull \hbox (6.35321pt too wide) in paragraph at lines 945--945
+\OT1/cmr/m/n/10 LAB1SMALL 
+ []
+
+[47]
+Overfull \hbox (6.35321pt too wide) in paragraph at lines 957--957
+\OT1/cmr/m/n/10 LAB1SMALL 
+ []
+
+
+Overfull \hbox (6.35321pt too wide) in paragraph at lines 957--957
+\OT1/cmr/m/n/10 LAB1SMALL 
+ []
+
+
+Overfull \hbox (6.35321pt too wide) in paragraph at lines 959--959
+\OT1/cmr/m/n/10 LAB1SMALL 
+ []
+
+
+Overfull \hbox (6.35321pt too wide) in paragraph at lines 959--959
+\OT1/cmr/m/n/10 LAB1SMALL 
+ []
+
+[48]
+Overfull \hbox (6.35321pt too wide) in paragraph at lines 981--981
+\OT1/cmr/m/n/10 LAB1SMALL 
+ []
+
+
+Overfull \hbox (6.35321pt too wide) in paragraph at lines 981--981
+\OT1/cmr/m/n/10 LAB1SMALL 
+ []
+
+
+Overfull \hbox (6.35321pt too wide) in paragraph at lines 985--985
+\OT1/cmr/m/n/10 LAB1SMALL 
+ []
+
+
+Overfull \hbox (6.35321pt too wide) in paragraph at lines 985--985
+\OT1/cmr/m/n/10 LAB1SMALL 
+ []
+
+[49]
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 997--997
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 997--997
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 997--997
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 997--997
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1005--1005
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1005--1005
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+[50]
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1017--1017
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1017--1017
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1017--1017
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1017--1017
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1025--1025
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1025--1025
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+[51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65]
+[66] [67] [68] [69] [70]
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1417--1417
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1417--1417
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1417--1417
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1417--1417
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1425--1425
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1425--1425
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+[71]
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1441--1441
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1441--1441
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1443--1443
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1443--1443
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1443--1443
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1443--1443
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+[72]
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1461--1461
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1461--1461
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1463--1463
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1463--1463
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1463--1463
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1463--1463
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+[73]
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1479--1479
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1479--1479
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1481--1481
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1481--1481
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1481--1481
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1481--1481
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+[74]
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1501--1501
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1501--1501
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1503--1503
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1503--1503
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1503--1503
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1503--1503
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+[75]
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1521--1521
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1521--1521
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1523--1523
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1523--1523
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1523--1523
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1523--1523
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+[76]
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1539--1539
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1539--1539
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1541--1541
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1541--1541
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1541--1541
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1541--1541
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+[77]
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1559--1559
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1559--1559
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1561--1561
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1561--1561
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1565--1565
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1565--1565
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+[78]
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1579--1579
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1579--1579
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1581--1581
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1581--1581
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1581--1581
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1581--1581
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+[79]
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1599--1599
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.71428pt too wide) in paragraph at lines 1599--1599
+\OT1/cmr/m/n/10 NAUT215LC 
+ []
+
+
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1601--1601
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.99207pt too wide) in paragraph at lines 1601--1601
+\OT1/cmr/m/n/10 NAUT215LA 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1605--1605
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 1605--1605
+\OT1/cmr/m/n/10 NAUT215LB 
+ []
+
+[80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94]
+[95] [96] [97] [98] [99]
+Overfull \hbox (3.49007pt too wide) in paragraph at lines 2010--2011
+\OT1/cmr/m/n/10 LITR101, NAUT120L, PEA125, MLOG120, CHEM100L, PHYS110L, NAUT160
+, NAUT120, PHYS110, BUSN101, NAUT130,
+ []
+
+[100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111]
+[112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123]
+[124] [125] [126] [127]
+Overfull \hbox (1.2679pt too wide) in paragraph at lines 2570--2571
+\OT1/cmr/m/n/10 ECME105, HIST100, MLOG120, CHEM100L, PHYS110L, ECMT111L, NASC10
+0, PHYS110, BUSN101, PEA110, CHEM100 
+ []
+
+[128]
+Overfull \hbox (1.2679pt too wide) in paragraph at lines 2590--2591
+\OT1/cmr/m/n/10 ECME105, HIST100, MLOG120, CHEM100L, PHYS110L, ECMT111L, NASC10
+0, PHYS110, BUSN101, PEA110, CHEM100 
+ []
+
+[129] ) 
+Here is how much of TeX's memory you used:
+ 1957 strings out of 481239
+ 26834 string characters out of 5920377
+ 281529 words of memory out of 5000000
+ 17271 multiletter control sequences out of 15000+600000
+ 532646 words of font info for 25 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 32i,9n,37p,630b,151s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on groups.pdf (129 pages, 265369 bytes).
+PDF statistics:
+ 428 PDF objects out of 1000 (max. 8388607)
+ 292 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
